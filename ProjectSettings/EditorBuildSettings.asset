@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Splash STMM.unity
+    guid: 5be3a4886c245824098104daaf0de43e
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: abf134c08c8d1c445802e02d76d450b4
+  - enabled: 1
+    path: Assets/Scenes/Galeri.unity
+    guid: 298dadcdb7eaf7843ae7a5dee2bfadb1
+  - enabled: 1
+    path: Assets/Scenes/Setting.unity
+    guid: 1a8169f21ac852e4ea28533f96063b85
+  - enabled: 1
+    path: Assets/Scenes/Pilih Level.unity
+    guid: 2761d913b69212041b6301ce505c7c1a
+  - enabled: 1
+    path: Assets/Scenes/Levels/Lv1.unity
+    guid: dc3da8727bf9a674bb8c0c906558b380
+  - enabled: 1
+    path: Assets/Scenes/Levels/Lv2.unity
+    guid: 5865b556e394bdf409a6817e4b34c2e5
+  - enabled: 1
+    path: Assets/Scenes/Levels/Lv3.unity
+    guid: 13e4585d2a124c44dabf6bc63e4e7410
+  - enabled: 1
+    path: Assets/Scenes/Levels/Lv4.unity
+    guid: 886a12e9d6fda13488996694c61c105d
+  - enabled: 1
+    path: Assets/Scenes/Levels/Lv5.unity
+    guid: 211624a6f7654c04b914932ab479723a
+  - enabled: 1
+    path: Assets/Scenes/Levels/Lv6.unity
+    guid: 0952867573388024798aafabc6695784
+  - enabled: 1
+    path: Assets/Scenes/Levels/Lv7.unity
+    guid: 5031e143ebb3b1247ac3a8ff1b7dd675
+  - enabled: 1
+    path: Assets/Scenes/Levels/Lv8.unity
+    guid: 9f80640c88bf9fe489576ca2efd75cb8
+  - enabled: 1
+    path: Assets/Scenes/Credit.unity
+    guid: 07786f489a1bc2246b75f9d1ec65305f
+  - enabled: 0
+    path: Assets/Scenes/Uji Coba 1.unity
+    guid: b972b26f48d215a43ae94d5d8989b752
+  - enabled: 0
+    path: Assets/Scenes/Uji Coba 2.unity
+    guid: 468b20dcef8aa4d47a01e1dc08af5e66
+  - enabled: 0
+    path: Assets/Scenes/Uji Coba 3.unity
+    guid: 105974cc291341445af81a1677ea431a
+  m_configObjects: {}
